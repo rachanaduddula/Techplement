@@ -59,7 +59,7 @@ The JavaScript file includes the following functions:
 
 ### API Key
 
-The app uses the OpenWeatherMap API. Replace `caccb4d3e4ed5d6cfb616948e2176236` with your own API key from OpenWeatherMap.
+The app uses the OpenWeatherMap API. Replace with your own API key from OpenWeatherMap.
 
 ### Example
 
